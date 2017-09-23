@@ -56,6 +56,7 @@ brew cask install tunnelbear
 brew cask install virtualbox
 brew cask install spotify
 brew cask install sourcetree
+brew cask install google-backup-and-sync
 
 # Remove outdated versions from the cellar.
 brew cleanup
