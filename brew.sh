@@ -29,8 +29,7 @@ brew install R
 brew upgrade
 
 # Install Cask
-brew install caskroom/cask/brew-cask
-brew tap caskroom/versions
+brew tap caskroom/cask
 # Install GUI applications
 brew cask install atom
 brew cask install flux
