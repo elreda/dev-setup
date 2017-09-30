@@ -58,6 +58,7 @@ brew cask install spotify
 brew cask install sourcetree
 brew cask install google-backup-and-sync
 brew cask install airdroid
+brew cask install itsycal
 
 # Remove outdated versions from the cellar.
 brew cleanup
