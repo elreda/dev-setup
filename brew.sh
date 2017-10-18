@@ -57,6 +57,7 @@ brew cask install spotify
 brew cask install sourcetree
 brew cask install google-backup-and-sync
 brew cask install itsycal
+brew cask install brave
 
 # Remove outdated versions from the cellar.
 brew cleanup
