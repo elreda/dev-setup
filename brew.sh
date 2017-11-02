@@ -44,11 +44,9 @@ brew cask install anaconda
 brew cask install handbrake
 brew cask install disk-inventory-x
 brew cask install dropbox
-brew cask install little-snitch
 brew cask install rstudio
 brew cask install mactex
 brew cask install skype
-brew cask install teamviewer
 brew cask install the-unarchiver
 brew cask install torbrowser
 brew cask install tunnelbear
@@ -58,6 +56,7 @@ brew cask install sourcetree
 brew cask install google-backup-and-sync
 brew cask install itsycal
 brew cask install brave
+brew cask install java
 
 # Remove outdated versions from the cellar.
 brew cleanup
