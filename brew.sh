@@ -24,6 +24,7 @@ brew install git
 brew install tldr
 # Install R
 brew install R
+brew install python 
 
 # Upgrade any already-installed formulae.
 brew upgrade
@@ -39,24 +40,24 @@ brew cask install vlc
 brew cask install lastpass
 brew cask install awareness
 brew cask install dash
-brew cask install stremio
 brew cask install anaconda
 brew cask install handbrake
 brew cask install disk-inventory-x
 brew cask install dropbox
-brew cask install rstudio
-brew cask install mactex
 brew cask install skype
 brew cask install the-unarchiver
 brew cask install torbrowser
-brew cask install tunnelbear
+brew cask install slack
 brew cask install virtualbox
 brew cask install spotify
-brew cask install sourcetree
-brew cask install google-backup-and-sync
+brew cask install exodus
 brew cask install itsycal
-brew cask install brave
-brew cask install java
+brew cask install rstudio
+brew cask install mactex
+#brew cask install brave
+#brew cask install tunnelbear
+#brew cask install google-backup-and-sync
+#brew cask install java
 
 # Remove outdated versions from the cellar.
 brew cleanup
