@@ -38,8 +38,6 @@ brew cask install spectacle
 brew cask install vlc
 brew cask install lastpass
 brew cask install awareness
-brew cask install dash
-brew cask install stremio
 brew cask install anaconda
 brew cask install handbrake
 brew cask install disk-inventory-x
@@ -51,12 +49,10 @@ brew cask install the-unarchiver
 brew cask install torbrowser
 brew cask install tunnelbear
 brew cask install virtualbox
-brew cask install spotify
-brew cask install sourcetree
-brew cask install google-backup-and-sync
 brew cask install itsycal
 brew cask install brave
-brew cask install java
+brew cask install eqmac
+brew cask install visual-studio-code
 
 # Remove outdated versions from the cellar.
 brew cleanup
