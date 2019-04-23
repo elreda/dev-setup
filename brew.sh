@@ -24,6 +24,7 @@ brew install git
 brew install tldr
 # Install R
 brew install R
+brew install python
 
 # Upgrade any already-installed formulae.
 brew upgrade
@@ -42,13 +43,13 @@ brew cask install anaconda
 brew cask install handbrake
 brew cask install disk-inventory-x
 brew cask install dropbox
-brew cask install rstudio
-brew cask install mactex
 brew cask install skype
 brew cask install the-unarchiver
 brew cask install torbrowser
-brew cask install tunnelbear
+brew cask install slack
 brew cask install virtualbox
+brew cask install rstudio
+brew cask install mactex
 brew cask install itsycal
 brew cask install brave
 brew cask install eqmac
@@ -208,4 +209,3 @@ brew cleanup
 
 # Install developer friendly quick look plugins; see https://github.com/sindresorhus/quick-look-plugins
 # brew cask install qlcolorcode qlstephen qlmarkdown quicklook-json qlprettypatch quicklook-csv betterzipql qlimagesize webpquicklook suspicious-package
-
