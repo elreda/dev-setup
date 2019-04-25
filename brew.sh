@@ -46,16 +46,13 @@ brew cask install disk-inventory-x
 brew cask install dropbox
 brew cask install skype
 brew cask install the-unarchiver
-brew cask install torbrowser
-brew cask install slack
+brew cask install tor-browser
 brew cask install virtualbox
-brew cask install spotify
-brew cask install exodus
 brew cask install itsycal
 brew cask install rstudio
 brew cask install mactex
-#brew cask install brave
-#brew cask install tunnelbear
+brew cask install brave
+brew cask install tunnelbear
 #brew cask install google-backup-and-sync
 #brew cask install java
 
