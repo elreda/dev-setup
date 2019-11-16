@@ -51,7 +51,8 @@ brew cask install itsycal
 brew cask install rstudio
 brew cask install mactex
 brew cask install brave
-brew cask install tunnelbear
+brew cask install nordvpn
+brew cask install workflowy
 #brew cask install google-backup-and-sync
 #brew cask install java
 
